@@ -1,5 +1,5 @@
  <?php
-
+by mr SNtripathi
          $to_mail = $_REQUEST['to'];
 
          $name = $_REQUEST['sender'];
